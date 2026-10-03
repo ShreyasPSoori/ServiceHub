@@ -439,21 +439,31 @@ The application connects to the `ServiceHub` database through the backend using 
 
 ## Screenshots
 
-Screenshots will be added to the repository under:
+## Screenshots
 
-```text
-docs/screenshots/
-```
+### Homepage
 
-Planned screenshots include:
+![ServiceHub Homepage](docs/screenshots/home.png)
 
-- Homepage
-- Services marketplace
-- Service details and booking
-- Customer bookings
-- Provider dashboard
-- Provider booking management
-- Admin dashboard
+### Services Marketplace
+
+![Services Marketplace](docs/screenshots/services.png)
+
+### Service Details & Booking
+
+![Service Details](docs/screenshots/service-details.png)
+
+### Provider Dashboard
+
+![Provider Dashboard](docs/screenshots/provider-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+### Booking Management
+
+![Booking Management](docs/screenshots/admin-bookings.png)
 
 ---
 
